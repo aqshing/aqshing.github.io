@@ -3,11 +3,11 @@
   <title>Shing&#39;s Blogs</title>
   
   <subtitle>Welcome</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://aqdebug.com/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://aqdebug.com/"/>
   <updated>2021-10-10T08:41:23.686Z</updated>
-  <id>http://example.com/</id>
+  <id>http://aqdebug.com/</id>
   
   <author>
     <name>aqshing</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/3eeb.html"/>
-    <id>http://example.com/posts/3eeb.html</id>
+    <link href="http://aqdebug.com/posts/3eeb.html"/>
+    <id>http://aqdebug.com/posts/3eeb.html</id>
     <published>2021-10-10T08:41:23.686Z</published>
     <updated>2021-10-10T08:41:23.686Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>第一篇Hexo blog文章</title>
-    <link href="http://example.com/posts/9556.html"/>
-    <id>http://example.com/posts/9556.html</id>
+    <link href="http://aqdebug.com/posts/9556.html"/>
+    <id>http://aqdebug.com/posts/9556.html</id>
     <published>2021-10-09T05:20:53.000Z</published>
     <updated>2021-10-10T08:41:23.696Z</updated>
     
@@ -56,16 +56,16 @@
     
     
     
-    <category term="C/C++" scheme="http://example.com/tags/C-C/"/>
+    <category term="C/C++" scheme="http://aqdebug.com/tags/C-C/"/>
     
-    <category term="Linux" scheme="http://example.com/tags/Linux/"/>
+    <category term="Linux" scheme="http://aqdebug.com/tags/Linux/"/>
     
   </entry>
   
   <entry>
     <title>第一篇Hexo blog文章</title>
-    <link href="http://example.com/posts/9556.html"/>
-    <id>http://example.com/posts/9556.html</id>
+    <link href="http://aqdebug.com/posts/9556.html"/>
+    <id>http://aqdebug.com/posts/9556.html</id>
     <published>2021-10-09T05:20:53.000Z</published>
     <updated>2021-10-10T08:41:23.696Z</updated>
     
@@ -81,9 +81,9 @@
     
     
     
-    <category term="C/C++" scheme="http://example.com/tags/C-C/"/>
+    <category term="C/C++" scheme="http://aqdebug.com/tags/C-C/"/>
     
-    <category term="Linux" scheme="http://example.com/tags/Linux/"/>
+    <category term="Linux" scheme="http://aqdebug.com/tags/Linux/"/>
     
   </entry>
   
