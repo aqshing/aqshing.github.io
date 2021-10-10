@@ -722,6 +722,33 @@
     </div>
 
     
+        <link rel="stylesheet" href="/libs/gitalk/gitalk.css">
+<link rel="stylesheet" href="/css/my-gitalk.css">
+
+<div class="card gitalk-card" data-aos="fade-up">
+    <div class="comment_headling" style="font-size: 20px; font-weight: 700; position: relative; padding-left: 20px; top: 15px; padding-bottom: 5px;">
+        <i class="fas fa-comments fa-fw" aria-hidden="true"></i>
+        <span>评论</span>
+    </div>
+    <div id="gitalk-container" class="card-content"></div>
+</div>
+
+<script src="/libs/gitalk/gitalk.min.js"></script>
+<script>
+    let gitalk = new Gitalk({
+        clientID: '3215dfd56b86bddc40e2',
+        clientSecret: 'e822cdc7cd3671adf43abd6cdf8c0798416e2022',
+        repo: 'https://serverless-page-bucket-v7baemwz-1307771998.cos-website.ap-hongkong.myqcloud.com',
+        owner: 'aqshing',
+        admin: "aqshing",
+        id: '2021-10-10T16-41-23',
+        distractionFreeMode: false  // Facebook-like distraction free mode
+    });
+
+    gitalk.render('gitalk-container');
+</script>
+
+    
 
     
 
