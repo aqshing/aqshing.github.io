@@ -6,7 +6,7 @@
   <link href="http://aqdebug.com/atom.xml" rel="self"/>
   
   <link href="http://aqdebug.com/"/>
-  <updated>2021-10-10T08:41:23.686Z</updated>
+  <updated>2021-10-18T17:52:29.909Z</updated>
   <id>http://aqdebug.com/</id>
   
   <author>
@@ -15,6 +15,87 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>面试复盘</title>
+    <link href="http://aqdebug.com/posts/1c48.html"/>
+    <id>http://aqdebug.com/posts/1c48.html</id>
+    <published>2021-10-15T16:21:52.000Z</published>
+    <updated>2021-10-18T17:52:29.909Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;面试复盘&quot;&gt;&lt;a href=&quot;#面试复盘&quot; class=&quot;headerlink&quot; title=&quot;面试复盘&quot;&gt;&lt;/a&gt;面试复盘&lt;/h1&gt;&lt;h4 id=&quot;小米面试复盘&quot;&gt;&lt;a href=&quot;#小米面试复盘&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="面试" scheme="http://aqdebug.com/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+    <category term="笔试" scheme="http://aqdebug.com/tags/%E7%AC%94%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>择业杂谈</title>
+    <link href="http://aqdebug.com/posts/523d.html"/>
+    <id>http://aqdebug.com/posts/523d.html</id>
+    <published>2021-10-14T16:33:01.000Z</published>
+    <updated>2021-10-15T04:27:09.462Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;center&gt;&lt;h1&gt; 毕业抉择，应届生启示录 &lt;/h1&gt;&lt;/center&gt;
+
+&lt;div style=&quot;text-indent:2em;&quot;&gt;大学生涯即将结束了，应届生该如何抉择？</summary>
+        
+      
+    
+    
+    
+    
+    <category term="本科生" scheme="http://aqdebug.com/tags/%E6%9C%AC%E7%A7%91%E7%94%9F/"/>
+    
+    <category term="考研 考公" scheme="http://aqdebug.com/tags/%E8%80%83%E7%A0%94-%E8%80%83%E5%85%AC/"/>
+    
+    <category term="就业 电网" scheme="http://aqdebug.com/tags/%E5%B0%B1%E4%B8%9A-%E7%94%B5%E7%BD%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>排序算法</title>
+    <link href="http://aqdebug.com/posts/ef35.html"/>
+    <id>http://aqdebug.com/posts/ef35.html</id>
+    <published>2021-10-14T04:17:26.000Z</published>
+    <updated>2021-10-14T04:28:10.652Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;排序算法介绍&quot;&gt;&lt;a href=&quot;#排序算法介绍&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="C/C++" scheme="http://aqdebug.com/tags/C-C/"/>
+    
+    <category term="算法" scheme="http://aqdebug.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="原创" scheme="http://aqdebug.com/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -59,6 +140,35 @@
     <category term="C/C++" scheme="http://aqdebug.com/tags/C-C/"/>
     
     <category term="Linux" scheme="http://aqdebug.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://aqdebug.com/posts/f82e.html"/>
+    <id>http://aqdebug.com/posts/f82e.html</id>
+    <published>2021-10-01T15:29:46.000Z</published>
+    <updated>2021-10-18T17:19:18.109Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;一级标签&lt;/h1&gt;
+&lt;h2&gt;二级标签&lt;/h2&gt;
+&lt;h3&gt;三级标签&lt;/h3&gt;
+&lt;p&gt;这是一个段落&lt;/p&gt;
+&lt;strong&gt;加粗&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;倾斜&lt;/em&gt;&lt;br&gt;
+&lt;del&gt;删除线&lt;/del&gt;
+&lt;ins&gt;下划线&lt;/ins&gt;
+&lt;div&gt;我是div，独占一</summary>
+        
+      
+    
+    
+    
     
   </entry>
   
