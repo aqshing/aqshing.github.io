@@ -6,7 +6,7 @@
   <link href="http://aqdebug.com/atom.xml" rel="self"/>
   
   <link href="http://aqdebug.com/"/>
-  <updated>2021-10-18T17:52:29.909Z</updated>
+  <updated>2021-10-20T17:29:28.096Z</updated>
   <id>http://aqdebug.com/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>html5学习</title>
+    <link href="http://aqdebug.com/posts/c9ae.html"/>
+    <id>http://aqdebug.com/posts/c9ae.html</id>
+    <published>2021-10-20T17:29:27.000Z</published>
+    <updated>2021-10-20T17:29:28.096Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>电阻</title>
+    <link href="http://aqdebug.com/posts/41fa.html"/>
+    <id>http://aqdebug.com/posts/41fa.html</id>
+    <published>2021-10-20T15:25:40.000Z</published>
+    <updated>2021-10-20T17:26:45.066Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;电阻定义式：&lt;strong&gt;R = U/I&lt;/strong&gt;（U表示电压，I表示电流）。&lt;/p&gt;
+
+&lt;p&gt;电阻定义公式：&lt;strong&gt;R = ρL/S&lt;/strong&gt;（ρ表示电阻的电阻率，由其本身性质决定，L表示电阻的长度，S表示电阻的横截面积）。</summary>
+        
+      
+    
+    
+    
+    
+    <category term="电子元器件" scheme="http://aqdebug.com/tags/%E7%94%B5%E5%AD%90%E5%85%83%E5%99%A8%E4%BB%B6/"/>
+    
+    <category term="电阻" scheme="http://aqdebug.com/tags/%E7%94%B5%E9%98%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>面试复盘</title>
@@ -148,7 +188,7 @@
     <link href="http://aqdebug.com/posts/f82e.html"/>
     <id>http://aqdebug.com/posts/f82e.html</id>
     <published>2021-10-01T15:29:46.000Z</published>
-    <updated>2021-10-19T14:06:23.844Z</updated>
+    <updated>2021-10-19T15:38:15.833Z</updated>
     
     
       
