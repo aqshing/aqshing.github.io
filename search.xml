@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="/posts/0.html"/>
+      <url>/posts/0.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="AutoCAD快捷键"><a href="#AutoCAD快捷键" class="headerlink" title="AutoCAD快捷键"></a>AutoCAD快捷键</h1><h2 id="1-绘图命令"><a href="#1-绘图命令" class="headerlink" title="1.绘图命令"></a>1.绘图命令</h2><p>L：直线</p><p>PL：多段线</p><p>XL（h；v）：构造线</p><p>REC：矩形</p><p>POL：正多边形</p><p>EL：椭圆</p><p>RE：重置模型；刷新；能放大缩小</p><p>C：圆</p><p>A：圆弧</p><p>E：删除</p><p>M：移动</p><p>Li：查看对象详细信息</p><p>F3 DS：对象捕捉</p><p>F7：网格开关</p><p>F8：正交</p><p>DIV：定点等分</p><p>ME：定距等分</p><p>PO：点</p><p>DI：测量距离</p><h2 id="2-修改命令"><a href="#2-修改命令" class="headerlink" title="2.修改命令"></a>2.修改命令</h2><p>O：偏移</p><p>CO：复制</p><p>MI：镜像</p><p>RO：旋转</p><p>SC：缩放</p><p>S：拉伸（要框选，不能点选）</p><p>AR：阵列</p><p>F：圆角</p><p>CHA：倒角</p><p>EX：延深</p><p>TR：修剪</p><p>DT：单行文字</p><p>T：多行文字</p><p>J：合并命令</p><p>PE：多段线闭合命令</p><p>BO：拾取边界</p><p>DR：绘图次序</p><p>AA：测量面积</p><p>W：写块</p><p>B：组块</p><p>D：标注</p><p>DLI空格两次点击线段</p><p>DAL空格两次点击斜线</p><p>DRA空格点击圆弧半径标注</p><p>DDI空格点击元直径标注</p><p>DAN空格点击两根线角度标注</p><p>QDIM：全选线段快速标注</p><p>LT：线性管理器</p><p>LTS：修改线性比例（100以内0.2；1000左右3或5）</p><p>MA：格式刷</p><p>LE：半径标注</p><p>SPL：样条曲线</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/posts/3eeb.html"/>
       <url>/posts/3eeb.html</url>
