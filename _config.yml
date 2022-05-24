@@ -141,10 +141,12 @@ feed:
   rss: /atom.xml
 
 #懒加载
-#lazyload:
-#  enable: true  # 是否开启图片懒加载
-#  onlypost: false  # 是否只对文章的图片做懒加载
-#  loadingImg: # eg ./images/loading.gif
+lazyload:
+  # 是否开启图片懒加载
+  enable: true
+  # 是否只对文章的图片做懒加载
+  onlypost: true
+  loadingImg: # eg ./images/loading.gif
 
 hexo_external_link:
   enable: false
@@ -159,6 +161,26 @@ hexo_external_link:
 # 文章生成永久链接
 abbrlink:
 #算法： crc16(default) and crc32
-    alg: crc16
+  alg: crc16
 #进制： dec(default) and hex
-    rep: hex
+  rep: hex
+
+#hexo-neat 优化提速插件（去掉HTML、css、js的blank字符）
+neat_enable: true
+neat_html:
+  enable: true
+  exclude:
+    - '**/*.md'
+neat_css:
+  enable: true
+  exclude:
+    - '**/*.min.css'
+neat_js:
+  enable: true
+  mangle: true
+  output:
+  compress:
+  exclude:
+    - '**/*.min.js'
+    - '**/**/instantpage.js'
+    - '**/matery.js'
