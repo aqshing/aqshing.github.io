@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+<!-- require MetingJS -->
+<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+
+    <meting-js style="margin-top: 1.5rem;width: auto;height: auto;"
+    server="netease"
+    type="playlist"
+    id="408894554"
+    theme="#2980b9"
+    loop="all"
+    autoplay="true"
+    order="random"
+    storageName="aplayer-setting"
+    lrctype= 0
+    >
+    </meting-js>
+<style>
+    .aplayer{
+        margin: 1.5rem 0;
+    }
+</style>
