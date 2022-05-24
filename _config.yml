@@ -110,9 +110,12 @@ theme: hexo-theme-matery
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repo:
-    coding: https://e.coding.net/aqshing/aqshing/aqshing.git
+- type: 'git'
+  repo: git@github.com:aqshing/aqshing.github.io.git
+  branch: master
+
+- type: 'git'
+  repo: git@e.coding.net:aqshing/aqshing/aqshing.git
   branch: master
 
 # Search
@@ -135,6 +138,7 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
+  rss: /atom.xml
 
 #懒加载
 #lazyload:
@@ -149,7 +153,7 @@ hexo_external_link:
   html_file_name: 'go.html'
   target_blank: true
   link_rel: 'external nofollow noopener noreferrer'
-  domain: 'your_domain' # 如果开启了防盗链，填写你的域名
+  domain: 'aqdebug.com' # 如果开启了防盗链，填写你的域名
   safety_chain: true
 
 # 文章生成永久链接

@@ -1,0 +1,14 @@
+[
+    {
+      "name": "2020",
+      "cover": "0.jpg",
+      "description": "我的图床",
+      "photos": [
+        "0.jpg",
+        "1.jpg",
+        "2.jpg",
+        "3.jpg",
+        "avatar.jpg"
+      ]
+    }
+]
