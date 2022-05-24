@@ -6,7 +6,7 @@
   <link href="http://aqdebug.com/atom.xml" rel="self"/>
   
   <link href="http://aqdebug.com/"/>
-  <updated>2022-05-24T04:18:51.738Z</updated>
+  <updated>2022-05-24T04:21:26.548Z</updated>
   <id>http://aqdebug.com/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="http://aqdebug.com/posts/0.html"/>
+    <id>http://aqdebug.com/posts/0.html</id>
+    <published>2022-05-24T04:21:26.548Z</published>
+    <updated>2022-05-24T04:21:26.548Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;AutoCAD快捷键&quot;&gt;&lt;a href=&quot;#AutoCAD快捷键&quot; class=&quot;headerlink&quot; title=&quot;AutoCAD快捷键&quot;&gt;&lt;/a&gt;AutoCAD快捷键&lt;/h1&gt;&lt;h2 id=&quot;1-绘图命令&quot;&gt;&lt;a href=&quot;#1-绘图命令&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://aqdebug.com/posts/3eeb.html"/>
     <id>http://aqdebug.com/posts/3eeb.html</id>
-    <published>2022-05-24T04:18:51.738Z</published>
-    <updated>2022-05-24T04:18:51.738Z</updated>
+    <published>2022-05-24T04:21:26.548Z</published>
+    <updated>2022-05-24T04:21:26.548Z</updated>
     
     
       
@@ -34,6 +55,200 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>Math1公式</title>
+    <link href="http://aqdebug.com/posts/7196.html"/>
+    <id>http://aqdebug.com/posts/7196.html</id>
+    <published>2021-11-07T15:09:37.000Z</published>
+    <updated>2022-05-24T04:21:26.548Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;$$\begin{bmatrix}&lt;br&gt;{a_{11}}&amp;amp;{a_{12}}&amp;amp;{\cdots}&amp;amp;{a_{1n}}\\&lt;br&gt;{a_{21}}&amp;amp;{a_{22}}&amp;amp;{\cdots}&amp;amp;{a_{2n}}\\&lt;br&gt;{\vdots}&amp;a</summary>
+        
+      
+    
+    
+    
+    <category term="Math" scheme="http://aqdebug.com/categories/Math/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>English 词汇笔记1</title>
+    <link href="http://aqdebug.com/posts/1546.html"/>
+    <id>http://aqdebug.com/posts/1546.html</id>
+    <published>2021-11-07T06:22:09.000Z</published>
+    <updated>2022-05-24T04:21:26.548Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;h1 id=&quot;1-词汇&quot;&gt;&lt;a href=&quot;#1-词汇&quot; class=&quot;headerlink&quot; title=&quot;1.词汇&quot;&gt;&lt;/a&gt;1.词汇&lt;/h1&gt;&lt;h2 id=&quot;一、时间，空间&quot;&gt;&lt;a href=&quot;#一、时间，空间&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="English" scheme="http://aqdebug.com/categories/English/"/>
+    
+    
+    <category term="英语" scheme="http://aqdebug.com/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+    <category term="词汇" scheme="http://aqdebug.com/tags/%E8%AF%8D%E6%B1%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>二叉树</title>
+    <link href="http://aqdebug.com/posts/2a0c.html"/>
+    <id>http://aqdebug.com/posts/2a0c.html</id>
+    <published>2021-10-26T09:27:53.000Z</published>
+    <updated>2022-05-24T04:21:26.548Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;$$&lt;br&gt;x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}&lt;br&gt;$$&lt;/p&gt;
+&lt;p&gt;$$&lt;br&gt;S = \begin{bmatrix}&lt;br&gt;A &amp;amp; B &amp;amp; \cdots\ &amp;amp; C\&lt;br&gt;D &amp;amp; E &amp;amp;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>html5学习</title>
+    <link href="http://aqdebug.com/posts/c9ae.html"/>
+    <id>http://aqdebug.com/posts/c9ae.html</id>
+    <published>2021-10-20T17:29:27.000Z</published>
+    <updated>2022-05-24T04:21:26.548Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>电阻</title>
+    <link href="http://aqdebug.com/posts/41fa.html"/>
+    <id>http://aqdebug.com/posts/41fa.html</id>
+    <published>2021-10-20T15:25:40.000Z</published>
+    <updated>2022-05-24T04:21:26.548Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;电阻定义式：&lt;strong&gt;R = U/I&lt;/strong&gt;（U表示电压，I表示电流）。&lt;/p&gt;
+
+&lt;p&gt;电阻定义公式：&lt;strong&gt;R = ρL/S&lt;/strong&gt;（ρ表示电阻的电阻率，由其本身性质决定，L表示电阻的长度，S表示电阻的横截面积）。</summary>
+        
+      
+    
+    
+    
+    
+    <category term="电子元器件" scheme="http://aqdebug.com/tags/%E7%94%B5%E5%AD%90%E5%85%83%E5%99%A8%E4%BB%B6/"/>
+    
+    <category term="电阻" scheme="http://aqdebug.com/tags/%E7%94%B5%E9%98%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>面试复盘</title>
+    <link href="http://aqdebug.com/posts/1c48.html"/>
+    <id>http://aqdebug.com/posts/1c48.html</id>
+    <published>2021-10-15T16:21:52.000Z</published>
+    <updated>2022-05-24T04:21:26.548Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;面试复盘&quot;&gt;&lt;a href=&quot;#面试复盘&quot; class=&quot;headerlink&quot; title=&quot;面试复盘&quot;&gt;&lt;/a&gt;面试复盘&lt;/h1&gt;&lt;h4 id=&quot;小米面试复盘&quot;&gt;&lt;a href=&quot;#小米面试复盘&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="面试" scheme="http://aqdebug.com/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+    <category term="笔试" scheme="http://aqdebug.com/tags/%E7%AC%94%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>择业杂谈</title>
+    <link href="http://aqdebug.com/posts/523d.html"/>
+    <id>http://aqdebug.com/posts/523d.html</id>
+    <published>2021-10-14T16:33:01.000Z</published>
+    <updated>2022-05-24T04:21:26.548Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;center&gt;&lt;h1&gt; 毕业抉择，应届生启示录 &lt;/h1&gt;&lt;/center&gt;
+
+&lt;div style=&quot;text-indent:2em;&quot;&gt;大学生涯即将结束了，应届生该如何抉择？</summary>
+        
+      
+    
+    
+    
+    
+    <category term="本科生" scheme="http://aqdebug.com/tags/%E6%9C%AC%E7%A7%91%E7%94%9F/"/>
+    
+    <category term="考研 考公" scheme="http://aqdebug.com/tags/%E8%80%83%E7%A0%94-%E8%80%83%E5%85%AC/"/>
+    
+    <category term="就业 电网" scheme="http://aqdebug.com/tags/%E5%B0%B1%E4%B8%9A-%E7%94%B5%E7%BD%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>排序算法</title>
+    <link href="http://aqdebug.com/posts/ef35.html"/>
+    <id>http://aqdebug.com/posts/ef35.html</id>
+    <published>2021-10-14T04:17:26.000Z</published>
+    <updated>2022-05-24T04:21:26.548Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;排序算法介绍&quot;&gt;&lt;a href=&quot;#排序算法介绍&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="C/C++" scheme="http://aqdebug.com/tags/C-C/"/>
+    
+    <category term="算法" scheme="http://aqdebug.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="原创" scheme="http://aqdebug.com/tags/%E5%8E%9F%E5%88%9B/"/>
     
   </entry>
   
@@ -59,6 +274,35 @@
     <category term="C/C++" scheme="http://aqdebug.com/tags/C-C/"/>
     
     <category term="Linux" scheme="http://aqdebug.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://aqdebug.com/posts/f82e.html"/>
+    <id>http://aqdebug.com/posts/f82e.html</id>
+    <published>2021-10-01T15:29:46.000Z</published>
+    <updated>2022-05-24T04:21:26.548Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;一级标签&lt;/h1&gt;
+&lt;h2&gt;二级标签&lt;/h2&gt;
+&lt;h3&gt;三级标签&lt;/h3&gt;
+&lt;p&gt;这是一个段落&lt;/p&gt;
+&lt;strong&gt;加粗&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;倾斜&lt;/em&gt;&lt;br&gt;
+&lt;del&gt;删除线&lt;/del&gt;
+&lt;ins&gt;下划线&lt;/ins&gt;
+&lt;div&gt;我是div，独占一</summary>
+        
+      
+    
+    
+    
     
   </entry>
   
