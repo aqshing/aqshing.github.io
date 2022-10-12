@@ -11,7 +11,6 @@ description: '软硬件全栈技术分享'
 #网站的关键词
 keywords: [C, C++, Linux, Windows, HTML, CSS, JavaScript]
 author: aqshing
-## language: en
 language: zh-CN
 timezone: ''
 
@@ -164,6 +163,33 @@ abbrlink:
   alg: crc16
 #进制： dec(default) and hex
   rep: hex
+
+
+## 添加动画live2d模块  npm install --save hexo-helper-live2d
+## 下载动画人物库 npm install live2d-widget-model-z16 -D
+live2d:
+  enable: true
+  scriptFrom: local # 默认
+  pluginRootPath: live2dw/ # 插件在站点上的根目录(相对路径)
+  pluginJsPath: lib/ # 脚本文件相对与插件根目录路径
+  pluginModelPath: assets/ # 模型文件相对与插件根目录路径
+  tagMode: false # 标签模式, 是否仅替换 live2d tag标签而非插入到所有页面中
+  debug: false # 调试, 是否在控制台输出日志
+  model:
+    use: live2d-widget-model-miku
+  display:
+    position: right #动画位置
+    width: 150
+    height: 190
+    # 位置配置，这个在左侧边栏位置很居中
+    hOffset: 50  # 调节水平位置
+    vOffset: -5  # 调节垂直位置
+  mobile:
+    show: false # 是否在移动设备上显示
+    scale: 0.5 # 移动设备上的缩放
+  react:
+    opacityDefault: 0.7
+    opacityOnHover: 0.8
 
 #hexo-neat 优化提速插件（去掉HTML、css、js的blank字符）
 neat_enable: true
