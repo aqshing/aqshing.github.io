@@ -7,7 +7,7 @@
 <!-- hexo injector head_begin end -->
     <meta charset="utf-8">
     <meta name="keywords" content="Math1公式, C,C++,Linux,Windows,HTML,CSS,JavaScript">
-    <meta name="description" content="">
+    <meta name="description" content="$$\begin{bmatrix}{a_{11}}&amp;amp;{a_{12}}&amp;amp;{\cdots}&amp;amp;{a_{1n}}\{a_{21}}&amp;amp;{a_{22}}&amp;amp;{\cdots}&amp;amp;{a_{2n}}\{\vdots">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -591,7 +591,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    0
+                    119
                 </div>
                 
 
@@ -616,7 +616,12 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                
+                <p>$$\begin{bmatrix}<br>{a_{11}}&amp;{a_{12}}&amp;{\cdots}&amp;{a_{1n}}\<br>{a_{21}}&amp;{a_{22}}&amp;{\cdots}&amp;{a_{2n}}\<br>{\vdots}&amp;{\vdots}&amp;{\ddots}&amp;{\vdots}\<br>{a_{m1}}&amp;{a_{m2}}&amp;{\cdots}&amp;{a_{mn}}\<br>\end{bmatrix}$$</p>
+<p>$$<br>f(n)=\begin{cases}<br>n/2, &amp; \text{if  $ x&lt;=2 $}\newline<br>3n+1, &amp; \text{if $ x&gt;2 $}<br>\end{cases}<br>$$</p>
+<p>$$<br>f([\frac{1+{x,y}}{(\frac{x}{y}+\frac{y}{x})(u+1)}+a]^{3\2})<br>$$</p>
+<p>$$<br>f\left(<br>    \left[<br>        \frac{<br>            1+\left{x,y\right}<br>        }{<br>        \left(<br>            \frac{x}{y}+\frac{y}{x}<br>        \right)<br>        \left(u+1\right)<br>        }+a<br>    \right]^{3\2}<br>\right)<br>$$</p>
+<p>$$<br>\require{enclose}\begin{array}{}<br>\enclose{horizontalstrike}{x+y} \<br>\enclose{horizontalstrike}{x*y} \<br>\end{array}<br>$$</p>
+
                 
             </div>
             <hr/>
@@ -1640,17 +1645,7 @@ $(function () {
 color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js">
 </script>
 
-//<script type="text/javascript">
-//只在桌面版网页启用特效
-//var windowWidth = $(window).width();
-//if (windowWidth > 768) {
-//    document.write('<script type="text/javascript" src="/js/sakura.js"><\/script>');
-//}
-//} else {
-//    document.write('<script src="/js/snow.js"><\/script>');
-//}
-//</script>
-
+<!--黑夜白天动态背景切换-->
 <!-- 白天和黑夜主题 -->
 <div class="sum-moon-box">
     <a class="btn-floating btn-large waves-effect waves-light" onclick="switchNightMode()" title="切换主题">
@@ -1658,7 +1653,7 @@ color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com
     </a>
 </div>
 
-// 黑夜白天动态背景切换
+<!-- 黑夜白天动态背景切换 -->
 <div class="stars-con">
   <div id="stars"></div>
   <div id="stars2"></div>
@@ -1682,9 +1677,8 @@ color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com
     }
 </script>
 
-/* 模式判断 */
+<!--黑夜白天模式判断-->
 <script>
-    /* 模式判断 */
     if (localStorage.getItem('isDark') === '1') {
         document.body.classList.add('DarkMode');
         $('#sum-moon-icon').addClass("fa-sun").removeClass('fa-moon')

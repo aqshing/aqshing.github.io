@@ -594,7 +594,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    475
+                    471
                 </div>
                 
 
@@ -627,14 +627,16 @@
 
 <p>电阻元件的电阻值影响因素：
 
-1. 长度：当材料和横截面积相同时，导体的长度越长，电阻越大。
-
-2. 横截面积：当材料和长度相同时，导体的横截面积越小，电阻越大。
-
-3. 材料：当长度和横截面积相同时，不同材料的导体电阻不同。
-
-4. 温度：对大多数导体来说，温度越高，电阻越大，如金属等；对少数导体来说，温度越高，电阻越小，如碳。</p>
-
+</p><ol>
+<li><p>长度：当材料和横截面积相同时，导体的长度越长，电阻越大。</p>
+</li>
+<li><p>横截面积：当材料和长度相同时，导体的横截面积越小，电阻越大。</p>
+</li>
+<li><p>材料：当长度和横截面积相同时，不同材料的导体电阻不同。</p>
+</li>
+<li><p>温度：对大多数导体来说，温度越高，电阻越大，如金属等；对少数导体来说，温度越高，电阻越小，如碳。</p><p></p>
+</li>
+</ol>
 <hr>
 <h1 id="Fixed-Resistor-固定电阻"><a href="#Fixed-Resistor-固定电阻" class="headerlink" title="Fixed Resistor 固定电阻"></a>Fixed Resistor 固定电阻</h1><h2 id="Wire-Wound-线绕电阻"><a href="#Wire-Wound-线绕电阻" class="headerlink" title="Wire Wound 线绕电阻"></a>Wire Wound 线绕电阻</h2><p>学习视频链接: <a target="_blank" rel="noopener" href="https://b23.tv/BV1Uv411p7EJ">https://b23.tv/BV1Uv411p7EJ</a></p>
 <h5 id="绕线电阻简介"><a href="#绕线电阻简介" class="headerlink" title="绕线电阻简介:"></a>绕线电阻简介:</h5><p>它是用康铜、锰铜等特殊的合金制成细丝绕在绝缘管上制成的，外面有一层保护层，保护层有一般釉质和防潮釉质两种。线绕电阻有固定式和可调式两种，如下图所示。</p>
@@ -1671,17 +1673,7 @@ $(function () {
 color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js">
 </script>
 
-//<script type="text/javascript">
-//只在桌面版网页启用特效
-//var windowWidth = $(window).width();
-//if (windowWidth > 768) {
-//    document.write('<script type="text/javascript" src="/js/sakura.js"><\/script>');
-//}
-//} else {
-//    document.write('<script src="/js/snow.js"><\/script>');
-//}
-//</script>
-
+<!--黑夜白天动态背景切换-->
 <!-- 白天和黑夜主题 -->
 <div class="sum-moon-box">
     <a class="btn-floating btn-large waves-effect waves-light" onclick="switchNightMode()" title="切换主题">
@@ -1689,7 +1681,7 @@ color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com
     </a>
 </div>
 
-// 黑夜白天动态背景切换
+<!-- 黑夜白天动态背景切换 -->
 <div class="stars-con">
   <div id="stars"></div>
   <div id="stars2"></div>
@@ -1713,9 +1705,8 @@ color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com
     }
 </script>
 
-/* 模式判断 */
+<!--黑夜白天模式判断-->
 <script>
-    /* 模式判断 */
     if (localStorage.getItem('isDark') === '1') {
         document.body.classList.add('DarkMode');
         $('#sum-moon-icon').addClass("fa-sun").removeClass('fa-moon')

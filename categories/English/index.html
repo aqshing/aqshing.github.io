@@ -462,19 +462,19 @@
                 
                 
                 
-                <a href="/categories/English/" title="English: 1">
+                <a href="/categories/Math/" title="Math: 1">
                     <span class="chip center-align waves-effect waves-light
-                             chip-active "
-                            style="background-color: #F9EBEA;">English
+                             chip-default "
+                            style="background-color: #F9EBEA;">Math
                         <span class="tag-length">1</span>
                     </span>
                 </a>
                 
                 
-                <a href="/categories/Math/" title="Math: 1">
+                <a href="/categories/English/" title="English: 1">
                     <span class="chip center-align waves-effect waves-light
-                             chip-default "
-                            style="background-color: #F5EEF8;">Math
+                             chip-active "
+                            style="background-color: #F5EEF8;">English
                         <span class="tag-length">1</span>
                     </span>
                 </a>
@@ -930,17 +930,7 @@ $(function () {
 color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js">
 </script>
 
-//<script type="text/javascript">
-//只在桌面版网页启用特效
-//var windowWidth = $(window).width();
-//if (windowWidth > 768) {
-//    document.write('<script type="text/javascript" src="/js/sakura.js"><\/script>');
-//}
-//} else {
-//    document.write('<script src="/js/snow.js"><\/script>');
-//}
-//</script>
-
+<!--黑夜白天动态背景切换-->
 <!-- 白天和黑夜主题 -->
 <div class="sum-moon-box">
     <a class="btn-floating btn-large waves-effect waves-light" onclick="switchNightMode()" title="切换主题">
@@ -948,7 +938,7 @@ color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com
     </a>
 </div>
 
-// 黑夜白天动态背景切换
+<!-- 黑夜白天动态背景切换 -->
 <div class="stars-con">
   <div id="stars"></div>
   <div id="stars2"></div>
@@ -972,9 +962,8 @@ color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com
     }
 </script>
 
-/* 模式判断 */
+<!--黑夜白天模式判断-->
 <script>
-    /* 模式判断 */
     if (localStorage.getItem('isDark') === '1') {
         document.body.classList.add('DarkMode');
         $('#sum-moon-icon').addClass("fa-sun").removeClass('fa-moon')

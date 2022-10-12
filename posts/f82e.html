@@ -7,13 +7,32 @@
 <!-- hexo injector head_begin end -->
     <meta charset="utf-8">
     <meta name="keywords" content="test, C,C++,Linux,Windows,HTML,CSS,JavaScript">
-    <meta name="description" content="&amp;lt;!DOCTYPE html&amp;gt;
-一级标签
-二级标签&amp;lt;/h3&amp;gt;
+    <meta name="description" content="一级标签
+二级标签
 三级标签
-这是一个段落加粗&amp;lt;/br&amp;gt;倾斜&amp;lt;/br&amp;gt;删除线下划线
+这是一个段落
+加粗
+倾斜
+删除线
+下划线
 我是div，独占一行123
-我是div，独占一行123&amp;lt;/b">
+我是div，独占一行123
+
+我是span1
+我是span2
+我是span3
+
+©
+
+百度一下
+
+我的博客
+
+
+用户名  
+
+密码    
+">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -588,7 +607,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    96
+                    79
                 </div>
                 
 
@@ -613,14 +632,26 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <p>&lt;!DOCTYPE html&gt;<br><!-- html学习 --></p>
-<p></p><h1>一级标签</h1><p></p>
-<p></p><h2>二级标签&lt;/h3&gt;<p></p>
-<p></p></h2><h3>三级标签</h3><p></p>
-<p></p><p>这是一个段落</p><br><strong>加粗</strong>&lt;/br&gt;<br><em>倾斜</em>&lt;/br&gt;<br><del>删除线</del><br><ins>下划线</ins><p></p>
-<p></p><div>我是div，独占一行</div>123<p></p>
-<p></p><div>我是div，独占一行</div>123<br>&lt;/br&gt;<br><span>我是span1</span><br><span>我是span2</span><br><span>我是span3</span><br>&lt;/br&gt;<p></p>
-<p></p><p>©</p><br><!-- 在当前标签页打开链接 --><br><a target="_blank" rel="noopener" href="https://baidu.com">百度一下</a><br><!-- 在新标签页打开链接 --><br><a href="https://aqdebug.com" target="_blank">我的博客</a><p></p>
+                <h1>一级标签</h1>
+<h2>二级标签</h2>
+<h3>三级标签</h3>
+<p>这是一个段落</p>
+<strong>加粗</strong><br>
+<em>倾斜</em><br>
+<del>删除线</del>
+<ins>下划线</ins>
+<div>我是div，独占一行</div>123
+<div>我是div，独占一行</div>123
+<br>
+<span>我是span1</span>
+<span>我是span2</span>
+<span>我是span3</span>
+<br>
+<p>©</p>
+<!-- 在当前标签页打开链接 -->
+<a target="_blank" rel="noopener" href="https://baidu.com">百度一下</a>
+<!-- 在新标签页打开链接 -->
+<a href="https://aqdebug.com" target="_blank">我的博客</a>
 <from>
 <!-- text 文本框,用户可以在里面输入任何文本 -->
 用户名 <input type="text" name="uname" value="请输入用户名"> <br>
@@ -1652,17 +1683,7 @@ $(function () {
 color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js">
 </script>
 
-//<script type="text/javascript">
-//只在桌面版网页启用特效
-//var windowWidth = $(window).width();
-//if (windowWidth > 768) {
-//    document.write('<script type="text/javascript" src="/js/sakura.js"><\/script>');
-//}
-//} else {
-//    document.write('<script src="/js/snow.js"><\/script>');
-//}
-//</script>
-
+<!--黑夜白天动态背景切换-->
 <!-- 白天和黑夜主题 -->
 <div class="sum-moon-box">
     <a class="btn-floating btn-large waves-effect waves-light" onclick="switchNightMode()" title="切换主题">
@@ -1670,7 +1691,7 @@ color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com
     </a>
 </div>
 
-// 黑夜白天动态背景切换
+<!-- 黑夜白天动态背景切换 -->
 <div class="stars-con">
   <div id="stars"></div>
   <div id="stars2"></div>
@@ -1694,9 +1715,8 @@ color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com
     }
 </script>
 
-/* 模式判断 */
+<!--黑夜白天模式判断-->
 <script>
-    /* 模式判断 */
     if (localStorage.getItem('isDark') === '1') {
         document.body.classList.add('DarkMode');
         $('#sum-moon-icon').addClass("fa-sun").removeClass('fa-moon')

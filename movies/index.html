@@ -605,7 +605,7 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h2 id="C-C"><a href="#C-C" class="headerlink" title="C/C++"></a>C/C++</h2><h4 id="学习内容"><a href="#学习内容" class="headerlink" title="学习内容:"></a>学习内容:</h4><h5 id="主要学习内容"><a href="#主要学习内容" class="headerlink" title="主要学习内容:"></a>主要学习内容:</h5><p>汇编, C语言, Linux C, C++98, C++11, 数据库编程SQL, GUI编程Qt, 网络编程(socket/http(s)), 设计模式, 数据结构与算法(二叉树、链表)</p>
+                <h2 id="C-x2F-C"><a href="#C-x2F-C" class="headerlink" title="C/C++"></a>C/C++</h2><h4 id="学习内容"><a href="#学习内容" class="headerlink" title="学习内容:"></a>学习内容:</h4><h5 id="主要学习内容"><a href="#主要学习内容" class="headerlink" title="主要学习内容:"></a>主要学习内容:</h5><p>汇编, C语言, Linux C, C++98, C++11, 数据库编程SQL, GUI编程Qt, 网络编程(socket/http(s)), 设计模式, 数据结构与算法(二叉树、链表)</p>
 <h5 id="拓展学习内容"><a href="#拓展学习内容" class="headerlink" title="拓展学习内容:"></a>拓展学习内容:</h5><p>boost库、nginx后台开发、音视频开发ffmpeg、网络库(libevent) 序列化库(protobuf) 日志库(spdlog)、协程库(libco)</p>
 <h4 id="入门视频推荐"><a href="#入门视频推荐" class="headerlink" title="入门视频推荐"></a>入门视频推荐</h4><p>个人感觉滴水三期视频作为入门挺不错的，但是他的bilibili官方账号( <a target="_blank" rel="noopener" href="https://space.bilibili.com/455453278">https://space.bilibili.com/455453278</a> )下架了那个视频，有兴趣的同学可以在网上搜一搜。</p>
 <p>海哥讲的C语言三期视频虽然老了(2015年1月-6月)，但是它的内容主要以C语言和汇编为主(Windows平台下)，站在C编译器的角度看汇编，能够搭建一套比较完整的底层知识体系。</p>
@@ -1618,17 +1618,7 @@ $(function () {
 color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js">
 </script>
 
-//<script type="text/javascript">
-//只在桌面版网页启用特效
-//var windowWidth = $(window).width();
-//if (windowWidth > 768) {
-//    document.write('<script type="text/javascript" src="/js/sakura.js"><\/script>');
-//}
-//} else {
-//    document.write('<script src="/js/snow.js"><\/script>');
-//}
-//</script>
-
+<!--黑夜白天动态背景切换-->
 <!-- 白天和黑夜主题 -->
 <div class="sum-moon-box">
     <a class="btn-floating btn-large waves-effect waves-light" onclick="switchNightMode()" title="切换主题">
@@ -1636,7 +1626,7 @@ color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com
     </a>
 </div>
 
-// 黑夜白天动态背景切换
+<!-- 黑夜白天动态背景切换 -->
 <div class="stars-con">
   <div id="stars"></div>
   <div id="stars2"></div>
@@ -1660,9 +1650,8 @@ color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com
     }
 </script>
 
-/* 模式判断 */
+<!--黑夜白天模式判断-->
 <script>
-    /* 模式判断 */
     if (localStorage.getItem('isDark') === '1') {
         document.body.classList.add('DarkMode');
         $('#sum-moon-icon').addClass("fa-sun").removeClass('fa-moon')
