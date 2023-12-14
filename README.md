@@ -3,6 +3,7 @@
 ### my hexo blogs source code
 
 **<font color=gree>Open source is in order to better free</font>, <font color=red>please don't attack me</font>, thank you!**
+
 **<font color=gree>开源是为了世界更美好</font>, <font color=red>请不要恶意伤害我</font>, 谢谢!**
 
 一个基于[hexo](https://hexo.io/)和[matery主题](https://github.com/blinkfox/hexo-theme-matery)的博客。

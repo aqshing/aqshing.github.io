@@ -17,7 +17,7 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 #url: http://example.com
-url: http://aqdebug.com
+url: http://jdbc.cc.com
 #permalink: :year/:month/:day/:title/
 permalink: posts/:abbrlink.html
 # 此处可以自己设置，也可以直接使用 :/abbrlink
@@ -154,7 +154,7 @@ hexo_external_link:
   html_file_name: 'go.html'
   target_blank: true
   link_rel: 'external nofollow noopener noreferrer'
-  domain: 'aqdebug.com' # 如果开启了防盗链，填写你的域名
+  domain: 'jdbc.cc' # 如果开启了防盗链，填写你的域名
   safety_chain: true
 
 # 文章生成永久链接

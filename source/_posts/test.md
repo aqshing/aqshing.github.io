@@ -25,7 +25,7 @@ tags:
 <!-- 在当前标签页打开链接 -->
 <a href="https://baidu.com">百度一下</a>
 <!-- 在新标签页打开链接 -->
-<a href="https://aqdebug.com" target="_blank">我的博客</a>
+<a href="https://jdbc.cc" target="_blank">我的博客</a>
 <from>
 <!-- text 文本框,用户可以在里面输入任何文本 -->
 用户名 <input type="text" name="uname" value="请输入用户名"> <br>
